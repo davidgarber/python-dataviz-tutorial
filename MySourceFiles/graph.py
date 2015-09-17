@@ -116,7 +116,6 @@ def visualize_type():
 
 
 def main():
-    visualize_days()
     visualize_type()
 
 
